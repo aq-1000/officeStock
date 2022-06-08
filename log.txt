@@ -1,5 +1,3067 @@
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
 GetCurDate1
-GetCurDate2:2021-09-07 10:20:01
+GetCurDate2:2022-04-06 09:44:34
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-06 09:47:37
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-06 11:14:43
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-06 13:10:19
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-06 13:54:24
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-07 09:20:22
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.07 9:45:16:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.07 9:53:52:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.07 10:11:56:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-07 13:14:49
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.07 13:18:09:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.07 14:14:35:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-08 09:32:40
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.08 9:52:19:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.08 10:54:17:详细行情的时交易明细     Error connecting with SSL.
+EOF was observed that violates the protocol
+2022.04.08 11:33:35:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.08 12:08:54:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.08 12:17:45:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.08 12:53:13:详细行情的时交易明细     Socket Error # 10054
+Connection reset by peer.
+2022.04.08 13:38:47:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.08 14:05:57:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.08 14:15:17:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.08 14:36:45:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.08 16:04:58:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.08 16:11:39:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.08 16:32:59:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.08 16:36:02:详细行情的时交易明细     Socket Error # 10054
+Connection reset by peer.
+2022.04.08 17:38:16:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-11 09:15:07
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.11 9:16:35:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 9:49:27:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.11 10:32:45:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 10:56:23:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 11:56:09:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 12:22:35:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.11 12:32:00:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 12:34:19:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 14:16:02:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.11 14:25:23:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.11 14:46:22:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-12 09:15:13
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-13 09:00:52
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+
+2022.04.13 9:29:57:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.13 10:42:08:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-13 13:11:46
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-14 11:16:46
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.14 12:18:29:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.14 12:29:46:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.14 12:39:31:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-15 09:15:46
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.15 9:45:53:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.15 10:02:19:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.15 10:16:01:详细行情的时交易明细     Socket Error # 10061
+Connection refused.
+2022.04.15 10:37:39:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.15 11:43:44:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.15 13:34:36:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.15 13:43:42:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:04:32:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:31:12:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:32:02:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:32:52:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:33:42:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:34:32:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:35:22:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:36:12:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:37:02:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:37:52:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:38:42:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:39:32:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:40:22:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:41:12:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:42:02:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:42:52:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:43:42:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.15 14:44:32:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-18 09:19:34
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.18 9:31:31:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.18 9:33:20:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.18 9:34:04:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.18 9:42:47:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-18 14:42:28
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.18 14:45:26:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-19 09:11:28
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.19 11:40:14:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.19 11:46:52:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.19 12:07:18:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.19 12:25:34:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.19 12:43:32:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.19 13:00:00:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.19 14:07:30:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.19 14:16:53:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.19 14:37:26:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.19 15:34:44:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.19 16:02:02:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.19 16:11:06:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-20 09:57:19
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-20 13:19:43
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.20 13:35:35:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.20 14:57:59:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-21 09:34:25
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.21 10:36:59:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.21 10:45:39:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.21 11:05:40:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.21 13:09:14:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.21 14:14:40:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.21 14:23:10:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.04.21 14:42:38:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-22 10:42:25
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-22 13:02:16
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.22 13:19:36:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.22 14:48:03:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-24 09:20:37
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-24 16:03:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-25 09:32:04
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.25 11:06:29:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.25 11:15:15:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.25 11:35:51:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.25 11:57:15:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.25 13:10:59:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.25 13:20:15:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.25 13:43:37:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.25 14:51:14:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.25 15:00:17:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-26 09:32:13
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.26 9:52:46:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.26 10:18:52:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.26 10:27:58:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.26 10:47:31:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.26 11:40:01:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.26 11:57:45:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.26 12:06:45:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.26 12:26:51:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.26 13:36:57:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.26 13:49:35:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-27 13:00:07
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.27 13:43:18:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.27 14:03:02:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-28 09:37:40
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.04.28 11:06:09:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.28 11:26:47:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.04.28 12:59:21:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.04.28 13:19:45:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.04.28 14:39:11:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-04-29 09:17:10
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-04-29 13:56:46
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-05 09:24:01
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+GetRR3
+GetRR4
+GetRR5
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.05 9:53:57:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.05 10:46:35:ThrdTimeShape-分时图取数     Socket Error # 10060
+Connection timed out.
+2022.05.05 10:53:47:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.05 10:55:18:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.05 11:13:53:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-05 13:15:31
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-06 09:16:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.06 10:12:58:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.06 10:23:59:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.06 10:45:57:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.06 11:03:46:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.06 11:24:01:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.06 12:36:04:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.06 13:01:58:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-09 10:01:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.09 10:23:24:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.09 10:34:17:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.09 10:40:11:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 10:58:39:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.09 12:38:45:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 12:40:05:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 12:51:03:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 12:51:59:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 12:55:15:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:03:15:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:03:59:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:11:05:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:14:41:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:37:43:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:39:39:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:41:01:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 13:58:00:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 14:10:21:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 14:46:44:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.09 15:05:44:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-10 09:49:40
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.10 9:54:53:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-10 10:17:52
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.10 11:21:09:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.10 11:32:07:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.10 12:10:57:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.10 13:21:27:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.10 13:32:45:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.10 13:54:54:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.10 13:55:44:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.10 14:14:57:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-11 10:29:07
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.11 10:51:05:ThrdPub公共线程-心跳     Connection Closed Gracefully.
+2022.05.11 10:55:56:TThrdMain.DoGetData     Invalid pointer operation
+2022.05.11 11:04:30:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.11 12:13:25:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.11 12:23:35:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.11 12:47:19:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.11 14:49:20:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.11 14:55:31:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.11 14:58:43:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.11 15:00:17:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.11 15:25:38:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-12 10:05:19
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-12 11:30:04
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.12 11:39:09:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.12 11:48:09:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-13 09:34:22
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.13 9:49:42:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.13 11:01:36:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.13 13:12:41:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.13 13:23:16:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.13 13:25:53:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.13 13:47:48:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-16 09:42:19
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.16 9:54:05:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.16 10:10:15:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-16 13:09:25
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-17 09:25:40
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-17 13:04:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-18 09:18:16
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.18 9:33:12:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 9:50:58:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 10:17:25:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.18 10:50:04:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 11:01:42:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 11:16:24:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.18 12:59:49:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.18 13:11:05:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 13:35:31:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.18 13:52:15:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.18 14:04:55:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-19 10:49:49
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.19 11:05:42:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.19 11:24:12:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.19 12:40:22:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.19 12:51:14:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-20 09:30:49
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4:Socket Error # 10054
+Connection reset by peer.
+GetStockInfo4
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.20 9:56:09:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.20 10:24:00:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.20 10:34:12:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.20 10:36:40:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.20 11:03:54:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.20 11:12:54:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.20 11:36:08:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.20 13:43:45:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.20 14:36:51:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.20 14:51:45:主线程其它指数     Socket Error # 10060
+Connection timed out.
+2022.05.20 15:02:09:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.20 15:12:43:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.20 15:35:53:主线程A股     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-23 13:57:40
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-24 09:54:52
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.24 10:01:49:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-25 09:27:28
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-26 09:21:34
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.26 9:26:40:详细行情的时交易明细     Socket Error # 10060
+Connection timed out.
+2022.05.26 9:37:34:主线程A股     Socket Error # 10060
+Connection timed out.
+2022.05.26 10:18:54:主线程其它指数     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-05-27 09:30:04
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-27 10:08:43
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-27 10:20:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-30 14:18:01
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+GetCurDate1
+GetCurDate2:2022-05-31 09:49:55
+GetCurDate3
+GetTradeDate1
+GetStockInfo1
+GetStockInfo2
+GetStockInfo3:http://qt.gtimg.cn/q=sh000001
+GetStockInfo4
+GetStockInfo5
+GetStockInfo6
+---------------------
+BeforCreateForm
+BeforCreateForm1
+BeforCreateForm2
+BeforCreateForm3
+BeforCreateForm4
+GetRR1
+GetRR2
+GetRR2-1
+BeforCreateForm5
+BeforCreateForm6
+FMain
+FDetailInfo
+FErrorMsg
+FAddSelfStock
+FDayShape
+FBanKuai
+FBKStocks
+FUnusual
+FAList
+FStockLX
+FStockSurvey
+FNetTest
+FNetConMsg
+FThreshold
+FMsgLst
+FNewStock
+FUnusualSettion
+FStockSelection
+FBKSelecttion
+FOverallView
+FOutIndex
+FMain
+AfterCreateForm
+
+2022.05.31 9:50:22:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:52:01:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:52:51:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:53:41:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:54:31:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:56:11:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:57:51:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 9:59:31:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.05.31 10:00:21:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+GetCurDate1
+GetCurDate2:2022-06-02 13:10:55
 GetCurDate3
 GetTradeDate1
 GetStockInfo1
@@ -47,7 +3109,7 @@ FMain
 AfterCreateForm
 
 GetCurDate1
-GetCurDate2:2021-09-07 10:39:01
+GetCurDate2:2022-06-06 09:58:25
 GetCurDate3
 GetTradeDate1
 GetStockInfo1
@@ -91,145 +3153,12 @@ FOutIndex
 FMain
 AfterCreateForm
 
-GetCurDate1
-GetCurDate2:2021-09-07 10:46:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-07 13:02:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-09 10:02:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.09 10:55:17:详细行情的时交易明细     Socket Error # 10060
+2022.06.06 9:58:52:ThrdPub公共线程-心跳     Socket Error # 10060
+Connection timed out.
+2022.06.06 9:59:42:ThrdPub公共线程-心跳     Socket Error # 10060
 Connection timed out.
 GetCurDate1
-GetCurDate2:2021-09-09 13:16:01
+GetCurDate2:2022-06-07 11:24:37
 GetCurDate3
 GetTradeDate1
 GetStockInfo1
@@ -274,665 +3203,7 @@ FMain
 AfterCreateForm
 
 GetCurDate1
-GetCurDate2:2021-09-09 13:23:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-09 14:40:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-10 09:40:02
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-10 09:49:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-10 11:29:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-11 13:16:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-11 13:17:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-13 09:37:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.13 10:34:40:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2021.09.13 12:09:53:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2021-09-14 11:36:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.14 13:33:42:主线程A股     Socket Error # 10060
-Connection timed out.
-2021.09.14 14:59:23:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2021-09-15 09:32:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.15 10:30:47:主线程A股     Socket Error # 10060
-Connection timed out.
-2021.09.15 10:40:50:主线程A股     Socket Error # 10060
-Connection timed out.
-2021.09.15 11:24:44:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2021.09.15 13:04:49:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2021-09-16 09:33:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.16 10:04:54:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2021-09-16 10:14:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-16 14:46:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2021-09-17 09:40:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2021.09.17 9:57:37:主线程A股     Socket Error # 10060
-Connection timed out.
-2021.09.17 10:08:14:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2021.09.17 10:50:58:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2021.09.17 12:08:34:主线程A股     Socket Error # 10060
-Connection timed out.
-2021.09.17 12:55:50:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2021-09-17 14:44:01
+GetCurDate2:2022-06-08 10:21:43
 GetCurDate3
 GetTradeDate1
 GetStockInfo1
