@@ -3247,3 +3247,23 @@ FOutIndex
 FMain
 AfterCreateForm
 
+2022-06-08 10:32:37Thread:25264 created TThrdMain
+2022-06-08 10:32:37Thread:20100 created TThrdDayShape
+2022-06-08 10:32:37Thread:11216 created TThrdTimeShape
+2022-06-08 10:32:37Thread:17144 created TThrdBK
+2022-06-08 10:32:37Thread:24700 created TThrdBKStck
+2022-06-08 10:32:37Thread:2020 created TThrdUnUsual
+2022-06-08 10:32:37Thread:25384 created TThrdAList
+2022-06-08 10:32:37Thread:7748 created TThrdTaskDo
+2022-06-08 10:32:40Thread:10216 created TThrdOverallView
+
+2022.06.08 10:32:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-06-08 10:33:17Thread:25264 deleted TThrdMain
+2022-06-08 10:33:17Thread:20100 deleted TThrdDayShape
+2022-06-08 10:33:17Thread:11216 deleted TThrdTimeShape
+2022-06-08 10:33:17Thread:17144 deleted TThrdBK
+2022-06-08 10:33:17Thread:24700 deleted TThrdBKStck
+2022-06-08 10:33:17Thread:2020 deleted TThrdUnUsual
+2022-06-08 10:33:17Thread:25384 deleted TThrdAList
+2022-06-08 10:33:17Thread:7748 deleted TThrdTaskDo
+2022-06-08 10:33:17Thread:10216 deleted TThrdOverallView
