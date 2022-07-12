@@ -1,3269 +1,1225 @@
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022-07-01 09:19:35Thread:16332 created TThrdOverallView
 
-GetCurDate1
-GetCurDate2:2022-04-06 09:44:34
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022.07.01 9:19:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:22:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:22:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:23:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:24:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:25:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:26:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:27:51:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:28:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:31:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:32:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:34:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:35:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:36:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:38:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:42:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:45:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:46:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:47:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:48:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:50:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:51:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:52:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:53:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:54:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:55:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:57:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:57:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 9:58:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:01:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:02:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:05:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:07:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:07:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:08:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:10:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:12:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:12:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:13:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:15:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:17:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:18:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:24:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:26:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:28:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:29:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:29:39:主线程其它指数     Read timed out.;(EIdException)Read timed out.
+2022.07.01 10:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:31:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:32:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:34:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:36:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:38:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:40:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:42:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:45:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:46:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:47:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:50:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:51:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:52:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:57:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 10:57:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:01:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:02:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:03:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:04:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:06:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:07:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:07:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:08:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:09:32:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:09:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:10:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:11:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:12:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:12:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:13:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:14:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:15:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:16:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:17:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:18:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:19:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:20:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:22:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:24:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:25:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:29:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:31:00:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:31:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:32:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:34:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:36:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:42:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:48:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:51:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:52:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:54:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:55:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:57:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:58:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 11:59:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:01:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:02:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:02:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:03:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:04:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:05:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:06:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:07:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:07:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:09:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:10:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:12:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:13:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:14:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:15:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:16:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:17:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:17:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:19:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:20:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:22:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:23:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:26:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:28:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:33:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:34:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:35:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:36:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:38:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:40:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:42:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:45:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:46:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:47:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:48:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:50:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:51:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:52:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:53:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:54:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:55:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:57:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:58:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 12:59:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:01:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:02:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:03:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:05:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:06:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:07:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:07:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:08:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:09:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:10:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:11:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:12:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:12:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:13:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:16:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:17:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:17:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:18:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:20:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:21:16:详细行情的时交易明细     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:22:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:22:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:23:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:24:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:25:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:26:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:28:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:29:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:32:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:34:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:35:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:38:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:40:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:45:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:47:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:48:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:50:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:52:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:52:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:53:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:54:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:57:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:57:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 13:58:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:02:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:02:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:03:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:06:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:07:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:07:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:08:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:10:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:10:36:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:11:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:12:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:12:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:13:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:14:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:15:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:17:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:17:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:18:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:19:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:20:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:21:12:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:21:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:22:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:22:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:23:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:24:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:25:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:26:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:27:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:29:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:31:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:33:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:35:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:36:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:38:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:40:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:42:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:42:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:43:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:44:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:45:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:45:42:主线程A股     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:46:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:47:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:47:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:49:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:50:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:51:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:52:09:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:52:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:53:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:54:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:55:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:56:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:57:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:57:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:58:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 14:59:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.01 15:00:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-01 15:00:36Thread:7292 deleted TThrdMain
+2022-07-01 15:00:36Thread:16996 deleted TThrdDayShape
+2022-07-01 15:00:36Thread:3536 deleted TThrdTimeShape
+2022-07-01 15:00:36Thread:18888 deleted TThrdBK
+2022-07-01 15:00:36Thread:29124 deleted TThrdBKStck
+2022-07-01 15:00:36Thread:4796 deleted TThrdUnUsual
+2022-07-01 15:00:36Thread:10104 deleted TThrdAList
+2022-07-01 15:00:36Thread:16560 deleted TThrdTaskDo
+2022-07-01 15:00:36Thread:16332 deleted TThrdOverallView
+2022-07-04 13:22:08Thread:13952 created TThrdMain
+2022-07-04 13:22:08Thread:24228 created TThrdDayShape
+2022-07-04 13:22:08Thread:7072 created TThrdTimeShape
+2022-07-04 13:22:08Thread:8496 created TThrdBK
+2022-07-04 13:22:08Thread:13548 created TThrdBKStck
+2022-07-04 13:22:08Thread:32920 created TThrdUnUsual
+2022-07-04 13:22:08Thread:36972 created TThrdAList
+2022-07-04 13:22:08Thread:33808 created TThrdTaskDo
+2022-07-04 13:22:13Thread:20964 created TThrdOverallView
 
-GetCurDate1
-GetCurDate2:2022-04-06 09:47:37
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022.07.04 13:22:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:23:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:24:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:26:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:27:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:28:06:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:28:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:29:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:30:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:31:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:32:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:33:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:33:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:35:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:37:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:38:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:39:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:40:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:43:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:43:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:44:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:46:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:47:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:48:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:48:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:51:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:53:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:53:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:54:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.04 13:55:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-04 13:55:43Thread:13952 deleted TThrdMain
+2022-07-04 13:55:43Thread:24228 deleted TThrdDayShape
+2022-07-04 13:55:43Thread:7072 deleted TThrdTimeShape
+2022-07-04 13:55:43Thread:8496 deleted TThrdBK
+2022-07-04 13:55:43Thread:13548 deleted TThrdBKStck
+2022-07-04 13:55:43Thread:32920 deleted TThrdUnUsual
+2022-07-04 13:55:43Thread:36972 deleted TThrdAList
+2022-07-04 13:55:43Thread:33808 deleted TThrdTaskDo
+2022-07-04 13:55:43Thread:20964 deleted TThrdOverallView
+2022-07-05 09:14:37Thread:39148 created TThrdMain
+2022-07-05 09:14:37Thread:39220 created TThrdDayShape
+2022-07-05 09:14:37Thread:12528 created TThrdTimeShape
+2022-07-05 09:14:37Thread:19008 created TThrdBK
+2022-07-05 09:14:37Thread:40512 created TThrdBKStck
+2022-07-05 09:14:37Thread:39920 created TThrdUnUsual
+2022-07-05 09:14:37Thread:34364 created TThrdAList
+2022-07-05 09:14:37Thread:32300 created TThrdTaskDo
+2022-07-05 09:14:42Thread:40160 created TThrdOverallView
 
-GetCurDate1
-GetCurDate2:2022-04-06 11:14:43
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022.07.05 9:16:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:18:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:20:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:21:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:23:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:24:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:26:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:27:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:28:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:28:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:30:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:31:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:34:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:35:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:38:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:39:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:40:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:42:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:43:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:44:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:45:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:46:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:47:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:48:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:48:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:49:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:51:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:52:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:53:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:54:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:55:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:56:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:57:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:58:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:58:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 9:59:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:00:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:02:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:03:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:03:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:04:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:05:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:06:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:07:13:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:08:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:10:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:11:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:12:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:13:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:13:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:14:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:15:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:16:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:17:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:18:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:18:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:20:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:21:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:22:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:23:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:23:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:24:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:26:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:28:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:32:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:33:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:35:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:36:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:38:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:39:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:41:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:42:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:43:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:43:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:44:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:45:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:46:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:48:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:48:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:50:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:51:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:52:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:53:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:53:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:54:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:55:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:56:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:57:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:58:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:58:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 10:59:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:00:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:01:25:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:01:53:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:02:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:03:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:04:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:05:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:06:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:07:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:08:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:08:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:09:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:10:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:11:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:12:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:13:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:14:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:15:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:16:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:17:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:18:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:18:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:19:25:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:20:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:21:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:23:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:24:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:28:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:28:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:32:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:34:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:36:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:38:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:39:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:40:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:43:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:44:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:45:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:46:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:48:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:48:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:51:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:53:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:53:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:54:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:55:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:56:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:58:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 11:58:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:01:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:02:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:02:38:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:03:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:04:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:05:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:06:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:07:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:08:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:11:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:13:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:13:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:14:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:15:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:16:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:17:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:18:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:20:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:21:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:23:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:24:42:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:24:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:25:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:27:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:28:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:28:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:30:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:31:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:32:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:34:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:37:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:38:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:42:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:43:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:44:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:45:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:47:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:48:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:49:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:50:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:52:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:55:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:56:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:57:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:58:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:58:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 12:59:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:00:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:02:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:03:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:03:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:04:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:05:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:06:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:07:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:08:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:09:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:10:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:10:52:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:11:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:13:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:15:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:16:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:17:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:18:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:20:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:22:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:23:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:23:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:25:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:26:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:27:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:28:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:30:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:31:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:33:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:34:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:35:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:37:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:38:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:38:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:40:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:41:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:44:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:45:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:46:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:47:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:48:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:49:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:50:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:52:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:53:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:54:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:55:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:57:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 13:59:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:01:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:02:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:03:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:03:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:04:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:05:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:06:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:07:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:08:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:09:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:10:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:11:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:13:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:13:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:14:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:15:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:17:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:18:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:19:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:21:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:22:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:23:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:23:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:24:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:26:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:27:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:28:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:29:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:29:49:详细行情的时交易明细     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:30:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:31:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:32:14:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:33:04:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:33:54:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:34:44:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:35:34:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:36:24:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:37:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:38:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:40:56:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:41:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:42:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:43:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:45:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:47:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:48:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:49:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:51:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:52:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:53:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:55:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:56:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:58:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:58:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 14:59:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:00:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:01:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:02:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:03:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:03:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:05:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:06:22:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:06:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:07:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:08:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:08:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:09:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:10:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:11:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:12:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:13:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:13:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:15:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:16:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:17:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:18:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:18:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:20:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:21:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:22:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:23:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:24:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:25:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:27:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:28:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:29:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:32:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:33:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:35:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:37:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:38:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:38:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:39:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:40:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:41:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:43:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:43:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:44:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:45:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:47:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:48:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:48:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:49:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:50:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:51:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:52:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:53:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:53:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:54:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:55:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:56:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:57:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:58:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:58:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 15:59:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:00:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:01:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:02:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:03:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:03:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:07:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:08:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:08:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:10:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:11:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:12:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:13:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:14:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:15:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:16:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:17:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:18:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:18:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:20:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:21:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:22:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:23:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:24:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:25:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:26:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:27:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:28:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:29:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:30:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:31:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:33:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:33:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:34:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:35:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:36:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:38:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:39:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:40:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:41:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:42:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:43:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:43:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:46:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:47:11:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:47:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:48:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:49:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:50:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:53:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:53:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:54:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:56:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:58:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:58:09:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 16:58:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:02:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:03:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:03:55:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:04:45:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:05:35:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:06:25:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:07:15:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.05 17:08:05:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-05 17:11:00Thread:39148 deleted TThrdMain
+2022-07-05 17:11:00Thread:39220 deleted TThrdDayShape
+2022-07-05 17:11:00Thread:12528 deleted TThrdTimeShape
+2022-07-05 17:11:00Thread:19008 deleted TThrdBK
+2022-07-05 17:11:00Thread:40512 deleted TThrdBKStck
+2022-07-05 17:11:00Thread:39920 deleted TThrdUnUsual
+2022-07-05 17:11:00Thread:34364 deleted TThrdAList
+2022-07-05 17:11:00Thread:32300 deleted TThrdTaskDo
+2022-07-05 17:11:00Thread:40160 deleted TThrdOverallView
+2022-07-06 09:15:11Thread:41536 created TThrdMain
+2022-07-06 09:15:11Thread:40884 created TThrdDayShape
+2022-07-06 09:15:11Thread:22904 created TThrdTimeShape
+2022-07-06 09:15:11Thread:36768 created TThrdBK
+2022-07-06 09:15:11Thread:19764 created TThrdBKStck
+2022-07-06 09:15:11Thread:22352 created TThrdUnUsual
+2022-07-06 09:15:11Thread:19296 created TThrdAList
+2022-07-06 09:15:11Thread:33640 created TThrdTaskDo
+2022-07-06 09:15:16Thread:23860 created TThrdOverallView
 
-GetCurDate1
-GetCurDate2:2022-04-06 13:10:19
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022.07.06 9:15:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:16:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:17:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:18:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:19:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:20:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:21:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:21:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:22:48:详细行情的时交易明细     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:23:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:24:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:25:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:26:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:26:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:27:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:28:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:29:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:30:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:31:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:32:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:33:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:34:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:36:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:36:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:37:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:39:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:40:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:41:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:41:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:45:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:46:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:47:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:48:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:49:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:50:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:51:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:53:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:53:58:主线程A股     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:54:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:55:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:56:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:57:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:58:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 9:59:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:00:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:01:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:01:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:02:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:03:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:04:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:05:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:06:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:07:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:10:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:11:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:11:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:12:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:15:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:16:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:16:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:18:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:19:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:20:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:21:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:21:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:22:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:23:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:24:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:25:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:27:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:28:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:29:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:31:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:31:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:32:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:33:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:33:52:主线程A股     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:34:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:35:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:36:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:37:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:38:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:39:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:40:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:41:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:41:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:42:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:43:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:44:21:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:44:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:45:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:46:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:46:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:47:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:49:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:50:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:51:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:51:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:52:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:53:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:54:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:56:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:56:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 10:59:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:00:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:01:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:01:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:03:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:04:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:06:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:06:16:详细行情的时交易明细     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:06:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:08:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:09:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:10:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:11:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:11:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:12:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:14:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:16:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:16:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:17:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:18:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:19:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:20:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:21:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:21:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:22:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:24:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:26:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:26:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:27:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:28:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:30:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:31:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:31:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:32:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:33:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:34:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:35:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:36:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:36:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:38:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:40:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:41:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:42:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:43:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:44:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:45:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:46:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:46:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:47:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:50:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:51:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:51:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:52:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:53:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:54:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:55:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:56:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:57:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:58:57:主线程A股     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 11:59:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:00:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:01:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:04:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:05:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:06:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:06:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:09:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:10:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:11:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:11:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:12:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:13:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:16:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:17:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:18:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:21:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:21:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:22:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:23:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:24:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:25:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:26:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:27:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:28:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:29:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:31:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:32:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:33:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:35:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:36:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:37:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:38:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:39:05:详细行情的时交易明细     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:39:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:41:08:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:42:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:43:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:44:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:45:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:46:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:47:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:48:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:49:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:49:45:主线程其它指数     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:50:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:52:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:53:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:54:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:56:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:57:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:58:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 12:59:28:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 13:00:18:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 13:03:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 13:06:58:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 13:07:48:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.06 13:08:38:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-06 13:09:15Thread:41536 deleted TThrdMain
+2022-07-06 13:09:15Thread:40884 deleted TThrdDayShape
+2022-07-06 13:09:15Thread:22904 deleted TThrdTimeShape
+2022-07-06 13:09:15Thread:36768 deleted TThrdBK
+2022-07-06 13:09:15Thread:19764 deleted TThrdBKStck
+2022-07-06 13:09:15Thread:22352 deleted TThrdUnUsual
+2022-07-06 13:09:15Thread:19296 deleted TThrdAList
+2022-07-06 13:09:15Thread:33640 deleted TThrdTaskDo
+2022-07-06 13:09:15Thread:23860 deleted TThrdOverallView
+2022-07-08 09:26:09Thread:21112 created TThrdMain
+2022-07-08 09:26:09Thread:13584 created TThrdDayShape
+2022-07-08 09:26:09Thread:16604 created TThrdTimeShape
+2022-07-08 09:26:09Thread:38608 created TThrdBK
+2022-07-08 09:26:09Thread:31508 created TThrdBKStck
+2022-07-08 09:26:09Thread:22936 created TThrdUnUsual
+2022-07-08 09:26:09Thread:29136 created TThrdAList
+2022-07-08 09:26:09Thread:13832 created TThrdTaskDo
+2022-07-08 09:26:15Thread:10156 created TThrdOverallView
 
-GetCurDate1
-GetCurDate2:2022-04-06 13:54:24
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-07 09:20:22
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.07 9:45:16:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.07 9:53:52:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.07 10:11:56:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-07 13:14:49
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.07 13:18:09:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.07 14:14:35:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-08 09:32:40
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.08 9:52:19:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.08 10:54:17:详细行情的时交易明细     Error connecting with SSL.
-EOF was observed that violates the protocol
-2022.04.08 11:33:35:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.08 12:08:54:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.08 12:17:45:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.08 12:53:13:详细行情的时交易明细     Socket Error # 10054
-Connection reset by peer.
-2022.04.08 13:38:47:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.08 14:05:57:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.08 14:15:17:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.08 14:36:45:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.08 16:04:58:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.08 16:11:39:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.08 16:32:59:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.08 16:36:02:详细行情的时交易明细     Socket Error # 10054
-Connection reset by peer.
-2022.04.08 17:38:16:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-11 09:15:07
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.11 9:16:35:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 9:49:27:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.11 10:32:45:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 10:56:23:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 11:56:09:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 12:22:35:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.11 12:32:00:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 12:34:19:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 14:16:02:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.11 14:25:23:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.11 14:46:22:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-12 09:15:13
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-13 09:00:52
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
-
-2022.04.13 9:29:57:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.13 10:42:08:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-13 13:11:46
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-14 11:16:46
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.14 12:18:29:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.14 12:29:46:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.14 12:39:31:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-15 09:15:46
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.15 9:45:53:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.15 10:02:19:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.15 10:16:01:详细行情的时交易明细     Socket Error # 10061
+2022.07.08 9:27:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:27:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:28:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:29:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:30:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:31:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:32:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:32:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:33:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:34:40:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:35:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:37:07:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:37:57:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:38:47:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:39:37:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:40:27:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:41:17:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.08 9:42:41:主线程A股     Socket Error # 10061
+Connection refused.;(EIdException)Socket Error # 10061
 Connection refused.
-2022.04.15 10:37:39:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.15 11:43:44:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.15 13:34:36:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.15 13:43:42:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:04:32:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:31:12:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:32:02:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:32:52:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:33:42:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:34:32:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:35:22:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:36:12:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:37:02:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:37:52:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:38:42:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:39:32:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:40:22:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:41:12:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:42:02:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:42:52:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:43:42:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.15 14:44:32:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-18 09:19:34
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022-07-08 09:43:10Thread:21112 deleted TThrdMain
+2022-07-08 09:43:10Thread:13584 deleted TThrdDayShape
+2022-07-08 09:43:10Thread:16604 deleted TThrdTimeShape
+2022-07-08 09:43:10Thread:38608 deleted TThrdBK
+2022-07-08 09:43:10Thread:31508 deleted TThrdBKStck
+2022-07-08 09:43:10Thread:22936 deleted TThrdUnUsual
+2022-07-08 09:43:10Thread:29136 deleted TThrdAList
+2022-07-08 09:43:10Thread:13832 deleted TThrdTaskDo
+2022-07-08 09:43:10Thread:10156 deleted TThrdOverallView
+2022-07-11 09:14:36Thread:36728 created TThrdMain
+2022-07-11 09:14:36Thread:42180 created TThrdDayShape
+2022-07-11 09:14:36Thread:45032 created TThrdTimeShape
+2022-07-11 09:14:36Thread:42356 created TThrdBK
+2022-07-11 09:14:36Thread:43724 created TThrdBKStck
+2022-07-11 09:14:36Thread:40740 created TThrdUnUsual
+2022-07-11 09:14:36Thread:46068 created TThrdAList
+2022-07-11 09:14:36Thread:45736 created TThrdTaskDo
+2022-07-11 09:14:43Thread:42124 created TThrdOverallView
 
-2022.04.18 9:31:31:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.18 9:33:20:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.18 9:34:04:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.18 9:42:47:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-18 14:42:28
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
+2022.07.11 9:15:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:16:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:17:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:18:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:20:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:21:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:22:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:23:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:25:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:26:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:27:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:28:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:29:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:30:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:33:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:34:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:35:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:36:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:37:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:38:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:38:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:39:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:40:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:41:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:43:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:43:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:44:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:45:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:46:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:47:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:48:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:49:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:50:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:51:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:53:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:53:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:54:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:55:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:56:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:57:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:58:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 9:58:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:01:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:02:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:03:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:03:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:04:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:05:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:06:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:07:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:08:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:09:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:11:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:13:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:14:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:15:33:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:16:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:17:13:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:18:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:18:06:主线程A股     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:18:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:19:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:21:23:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:23:03:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:23:53:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.11 10:24:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-11 10:24:53Thread:36728 deleted TThrdMain
+2022-07-11 10:24:53Thread:42180 deleted TThrdDayShape
+2022-07-11 10:24:53Thread:45032 deleted TThrdTimeShape
+2022-07-11 10:24:53Thread:42356 deleted TThrdBK
+2022-07-11 10:24:53Thread:43724 deleted TThrdBKStck
+2022-07-11 10:24:53Thread:40740 deleted TThrdUnUsual
+2022-07-11 10:24:53Thread:46068 deleted TThrdAList
+2022-07-11 10:24:53Thread:45736 deleted TThrdTaskDo
+2022-07-11 10:24:53Thread:42124 deleted TThrdOverallView
+2022-07-12 09:17:34Thread:34716 created TThrdMain
+2022-07-12 09:17:34Thread:24464 created TThrdDayShape
+2022-07-12 09:17:34Thread:38832 created TThrdTimeShape
+2022-07-12 09:17:34Thread:44572 created TThrdBK
+2022-07-12 09:17:34Thread:21664 created TThrdBKStck
+2022-07-12 09:17:34Thread:10828 created TThrdUnUsual
+2022-07-12 09:17:34Thread:5292 created TThrdAList
+2022-07-12 09:17:34Thread:38488 created TThrdTaskDo
+2022-07-12 09:17:41Thread:22888 created TThrdOverallView
 
-2022.04.18 14:45:26:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-19 09:11:28
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.19 11:40:14:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.19 11:46:52:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.19 12:07:18:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.19 12:25:34:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.19 12:43:32:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.19 13:00:00:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.19 14:07:30:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.19 14:16:53:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.19 14:37:26:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.19 15:34:44:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.19 16:02:02:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.19 16:11:06:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-20 09:57:19
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-20 13:19:43
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.20 13:35:35:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.20 14:57:59:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-21 09:34:25
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.21 10:36:59:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.21 10:45:39:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.21 11:05:40:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.21 13:09:14:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.21 14:14:40:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.21 14:23:10:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.04.21 14:42:38:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-22 10:42:25
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-22 13:02:16
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.22 13:19:36:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.22 14:48:03:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-24 09:20:37
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-24 16:03:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-25 09:32:04
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.25 11:06:29:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.25 11:15:15:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.25 11:35:51:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.25 11:57:15:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.25 13:10:59:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.25 13:20:15:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.25 13:43:37:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.25 14:51:14:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.25 15:00:17:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-26 09:32:13
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.26 9:52:46:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.26 10:18:52:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.26 10:27:58:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.26 10:47:31:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.26 11:40:01:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.26 11:57:45:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.26 12:06:45:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.26 12:26:51:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.26 13:36:57:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.26 13:49:35:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-27 13:00:07
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.27 13:43:18:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.27 14:03:02:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-28 09:37:40
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.04.28 11:06:09:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.28 11:26:47:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.04.28 12:59:21:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.04.28 13:19:45:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.04.28 14:39:11:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-04-29 09:17:10
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-04-29 13:56:46
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-05 09:24:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-GetRR3
-GetRR4
-GetRR5
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.05 9:53:57:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.05 10:46:35:ThrdTimeShape-分时图取数     Socket Error # 10060
-Connection timed out.
-2022.05.05 10:53:47:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.05 10:55:18:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.05 11:13:53:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-05 13:15:31
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-06 09:16:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.06 10:12:58:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.06 10:23:59:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.06 10:45:57:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.06 11:03:46:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.06 11:24:01:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.06 12:36:04:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.06 13:01:58:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-09 10:01:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.09 10:23:24:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.09 10:34:17:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.09 10:40:11:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 10:58:39:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.09 12:38:45:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 12:40:05:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 12:51:03:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 12:51:59:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 12:55:15:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:03:15:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:03:59:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:11:05:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:14:41:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:37:43:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:39:39:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:41:01:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 13:58:00:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 14:10:21:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 14:46:44:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.09 15:05:44:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-10 09:49:40
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.10 9:54:53:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-10 10:17:52
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.10 11:21:09:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.10 11:32:07:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.10 12:10:57:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.10 13:21:27:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.10 13:32:45:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.10 13:54:54:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.10 13:55:44:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.10 14:14:57:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-11 10:29:07
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.11 10:51:05:ThrdPub公共线程-心跳     Connection Closed Gracefully.
-2022.05.11 10:55:56:TThrdMain.DoGetData     Invalid pointer operation
-2022.05.11 11:04:30:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.11 12:13:25:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.11 12:23:35:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.11 12:47:19:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.11 14:49:20:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.11 14:55:31:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.11 14:58:43:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.11 15:00:17:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.11 15:25:38:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-12 10:05:19
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-12 11:30:04
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.12 11:39:09:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.12 11:48:09:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-13 09:34:22
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.13 9:49:42:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.13 11:01:36:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.13 13:12:41:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.13 13:23:16:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.13 13:25:53:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.13 13:47:48:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-16 09:42:19
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.16 9:54:05:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.16 10:10:15:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-16 13:09:25
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-17 09:25:40
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-17 13:04:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-18 09:18:16
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.18 9:33:12:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 9:50:58:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 10:17:25:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.18 10:50:04:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 11:01:42:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 11:16:24:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.18 12:59:49:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.18 13:11:05:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 13:35:31:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.18 13:52:15:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.18 14:04:55:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-19 10:49:49
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.19 11:05:42:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.19 11:24:12:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.19 12:40:22:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.19 12:51:14:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-20 09:30:49
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4:Socket Error # 10054
-Connection reset by peer.
-GetStockInfo4
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.20 9:56:09:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.20 10:24:00:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.20 10:34:12:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.20 10:36:40:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.20 11:03:54:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.20 11:12:54:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.20 11:36:08:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.20 13:43:45:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.20 14:36:51:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.20 14:51:45:主线程其它指数     Socket Error # 10060
-Connection timed out.
-2022.05.20 15:02:09:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.20 15:12:43:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.20 15:35:53:主线程A股     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-23 13:57:40
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-24 09:54:52
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.24 10:01:49:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-25 09:27:28
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-26 09:21:34
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.26 9:26:40:详细行情的时交易明细     Socket Error # 10060
-Connection timed out.
-2022.05.26 9:37:34:主线程A股     Socket Error # 10060
-Connection timed out.
-2022.05.26 10:18:54:主线程其它指数     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-05-27 09:30:04
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-27 10:08:43
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-27 10:20:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-30 14:18:01
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-05-31 09:49:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.05.31 9:50:22:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:52:01:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:52:51:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:53:41:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:54:31:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:56:11:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:57:51:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 9:59:31:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.05.31 10:00:21:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-06-02 13:10:55
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-GetRR3
-GetRR4
-GetRR5
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-06-06 09:58:25
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022.06.06 9:58:52:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-2022.06.06 9:59:42:ThrdPub公共线程-心跳     Socket Error # 10060
-Connection timed out.
-GetCurDate1
-GetCurDate2:2022-06-07 11:24:37
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-GetCurDate1
-GetCurDate2:2022-06-08 10:21:43
-GetCurDate3
-GetTradeDate1
-GetStockInfo1
-GetStockInfo2
-GetStockInfo3:http://qt.gtimg.cn/q=sh000001
-GetStockInfo4
-GetStockInfo5
-GetStockInfo6
----------------------
-BeforCreateForm
-BeforCreateForm1
-BeforCreateForm2
-BeforCreateForm3
-BeforCreateForm4
-GetRR1
-GetRR2
-GetRR2-1
-BeforCreateForm5
-BeforCreateForm6
-FMain
-FDetailInfo
-FErrorMsg
-FAddSelfStock
-FDayShape
-FBanKuai
-FBKStocks
-FUnusual
-FAList
-FStockLX
-FStockSurvey
-FNetTest
-FNetConMsg
-FThreshold
-FMsgLst
-FNewStock
-FUnusualSettion
-FStockSelection
-FBKSelecttion
-FOverallView
-FOutIndex
-FMain
-AfterCreateForm
-
-2022-06-08 10:32:37Thread:25264 created TThrdMain
-2022-06-08 10:32:37Thread:20100 created TThrdDayShape
-2022-06-08 10:32:37Thread:11216 created TThrdTimeShape
-2022-06-08 10:32:37Thread:17144 created TThrdBK
-2022-06-08 10:32:37Thread:24700 created TThrdBKStck
-2022-06-08 10:32:37Thread:2020 created TThrdUnUsual
-2022-06-08 10:32:37Thread:25384 created TThrdAList
-2022-06-08 10:32:37Thread:7748 created TThrdTaskDo
-2022-06-08 10:32:40Thread:10216 created TThrdOverallView
-
-2022.06.08 10:32:43:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
-2022-06-08 10:33:17Thread:25264 deleted TThrdMain
-2022-06-08 10:33:17Thread:20100 deleted TThrdDayShape
-2022-06-08 10:33:17Thread:11216 deleted TThrdTimeShape
-2022-06-08 10:33:17Thread:17144 deleted TThrdBK
-2022-06-08 10:33:17Thread:24700 deleted TThrdBKStck
-2022-06-08 10:33:17Thread:2020 deleted TThrdUnUsual
-2022-06-08 10:33:17Thread:25384 deleted TThrdAList
-2022-06-08 10:33:17Thread:7748 deleted TThrdTaskDo
-2022-06-08 10:33:17Thread:10216 deleted TThrdOverallView
+2022.07.12 9:20:12:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.12 9:21:01:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.12 9:22:42:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.12 9:23:32:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.12 9:24:22:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022.07.12 9:25:12:ThrdPub公共线程-心跳     Connect timed out.;(EIdException)Connect timed out.
+2022-07-12 09:25:48Thread:34716 deleted TThrdMain
+2022-07-12 09:25:48Thread:24464 deleted TThrdDayShape
+2022-07-12 09:25:48Thread:38832 deleted TThrdTimeShape
+2022-07-12 09:25:48Thread:44572 deleted TThrdBK
+2022-07-12 09:25:48Thread:21664 deleted TThrdBKStck
+2022-07-12 09:25:48Thread:10828 deleted TThrdUnUsual
+2022-07-12 09:25:48Thread:5292 deleted TThrdAList
+2022-07-12 09:25:48Thread:38488 deleted TThrdTaskDo
+2022-07-12 09:25:48Thread:22888 deleted TThrdOverallView
